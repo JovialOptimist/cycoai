@@ -49,10 +49,7 @@ function App() {
           <div className="flex items-center justify-center space-x-3 mb-8">
             <Terminal className="w-12 h-12 text-green-400" />
             <h1 className="text-4xl md:text-6xl font-mono font-bold tracking-wider">
-              Cyco
-              <span className="text-green-400">
-                Jac was here btw Version 2000
-              </span>
+              Cyco<span className="text-green-400">Dev</span>
             </h1>
           </div>
 
