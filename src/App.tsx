@@ -51,7 +51,7 @@ function App() {
             <h1 className="text-4xl md:text-6xl font-mono font-bold tracking-wider">
               Cyco
               <span className="text-green-400">
-                Jac was here btw this is a temporary changeasdfasdfasdf
+                Jac was here btw alskdjflaksjdflksjd
               </span>
             </h1>
           </div>
